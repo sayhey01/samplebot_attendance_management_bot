@@ -26,13 +26,13 @@ TZone = "Asia/Tokyo"
 
 # account
 ADMIN_ACCOUNT = "admin@xxx.com"
-DOMAIN_ID = 0
+DOMAIN_ID = 165384
 
 # api
-API_ID = "kr1EHxxxxfJVz"
-SERVER_CONSUMER_KEY = "To8SnC7sxxxxxjqXZhO"
+API_ID = "kr1DQzbSHccEd"
+SERVER_CONSUMER_KEY = "CXRGh5YevOwIwkV4VDU4"
 
-SERVER_ID = "96460cc1e778402xxxxxfe35fa97ce76"
+SERVER_ID = "4e30e7bb299e49f9b6cc6cd298f79b49"
 SECRET_KEY_NAME = "private_201xxxxx164308.key"
 
 # LOCAL ADDRESS
