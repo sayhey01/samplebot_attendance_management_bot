@@ -19,7 +19,7 @@ limitations under the License.
 import os
 
 # default language ['en'|'ko'|'ja']
-DEFAULT_LANG = 'ja'
+DEFAULT_LANG = 'ko'
 
 # TimeZone
 TZone = "Asia/Tokyo"
