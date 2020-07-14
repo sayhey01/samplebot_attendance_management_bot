@@ -22,7 +22,7 @@ import os
 DEFAULT_LANG = 'ko'
 
 # TimeZone
-TZone = "Asia/Tokyo"
+TZone = "Asia/Seoul"
 
 # account
 ADMIN_ACCOUNT = "official@blimey-media.com"
